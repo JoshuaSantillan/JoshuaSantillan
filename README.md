@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Josh! (:
+## I'm Josh(ua)! (:
 -  I Recently obtained my Computer Science Degree at UC San Diego
 -  I’m currently learning more about Security, DevOps, and container orchestration  
 - Ask me about my past projects!
