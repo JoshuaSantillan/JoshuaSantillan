@@ -1,5 +1,5 @@
 ## I'm Josh(ua)
-##### (╯°□°）╯︵ ┻━┻
+##### (╯°□°）╯︵ ┻━┻ [Check out my portfolio](https://joshuasantillan.github.io/portfolio/)
 - I’m currently learning more about Penetration Testing, Cloud Security, DevOps, Container Orchestration & Kubernetes Patterns
 - Ask me about my past projects!
 - UCSD CS Grad
